@@ -3,3 +3,6 @@ def faculteit(n):
     while n > 1:
         totaal *= n
     return n
+    
+# hieronder de tests
+
