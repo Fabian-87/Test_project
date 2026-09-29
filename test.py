@@ -6,3 +6,11 @@ def faculteit(n):
     
 # hieronder de tests
 # nog een comment
+
+if __name__ == "__main__":
+    print(faculteit(0))
+    print(faculteit(1))
+    print(faculteit(2))
+    print(faculteit(3))
+    print(faculteit(4))
+    print(faculteit(5))
