@@ -4,6 +4,7 @@ def faculteit(n):
         totaal *= n
         n -= 1
     return totaal
+    zes = 6
 
 
 if __name__ == "__main__":
